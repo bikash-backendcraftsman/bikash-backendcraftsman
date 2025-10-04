@@ -62,20 +62,15 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Java Backend Spring Boot
+### Spring Ecosystem
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Technology_Name](https://img.shields.io/badge/Display_Name-COLOR_CODE?style=for-the-badge&logo=LOGO_NAME&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring REST](https://img.shields.io/badge/Spring_REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=mockito&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -109,24 +104,139 @@
 
 ## 🏆 Certifications
 
+### AWS & Cloud Certifications
 | Certification | Issuer | Year | Credential |
 |--------------|--------|------|------------|
 | AWS Certified Solutions Architect | Amazon Web Services | 2024 | [View Certificate](https://www.credly.com/badges/your-badge) |
 | Google Cloud Professional | Google Cloud | 2024 | [View Certificate](https://www.credential.net/your-cert) |
-| MongoDB Certified Developer | MongoDB University | 2023 | [View Certificate](https://university.mongodb.com/your-cert) |
-| Meta Frontend Developer | Meta (Coursera) | 2023 | [View Certificate](https://coursera.org/verify/your-cert) |
 
----
+### Database Certifications
+| Certification | Issuer | Year | Credential |
+|--------------|--------|------|------------|
+| MongoDB Certified Developer | MongoDB University | 2023 | [View Certificate](https://university.mongodb.com/your-cert) |
+
+### Development Certifications
+| Certification | Issuer | Year | Credential |
+|--------------|--------|------|------------|
+| Meta Frontend Developer | Meta (Coursera) | 2023 | [View Certificate](https://coursera.org/verify/your-cert) |
 
 ### 🎓 Udemy Certifications
 
-| Course Name | Instructor | Completion Year | Certificate |
+<table>
+<tr>
+<td width="50%">
 
-| Spring Boot Microservices and Spring Cloud | In28Minutes Official | 2024 | [View Certificate](https://udemy.com/certificate/UC-12345678/) |
-| Master Hibernate and JPA | Chad Darby | 2024 | [View Certificate](https://udemy.com/certificate/UC-87654321/) |
-| RESTful Web Services with Spring Boot | Sergey Kargopolov | 2024 | [View Certificate](https://udemy.com/certificate/UC-11223344/) |
-| Docker & Kubernetes: The Complete Guide | Stephen Grider | 2023 | [View Certificate](https://udemy.com/certificate/UC-55667788/) |
+#### Spring Boot Microservices and Spring Cloud
+**Instructor:** In28Minutes Official  
+**Completion Year:** 2024  
+**Certificate:** [View Certificate →](https://udemy.com/certificate/YOUR-CERT-ID/)
 
+</td>
+<td width="50%">
+
+#### Master Spring Boot 3 & Spring Framework 6
+**Instructor:** Chad Darby  
+**Completion Year:** 2024  
+**Certificate:** [View Certificate →](https://udemy.com/certificate/YOUR-CERT-ID/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Java Spring Boot & Microservices - Complete Guide
+**Instructor:** Ranga Karanam  
+**Completion Year:** 2024  
+**Certificate:** [View Certificate →](https://udemy.com/certificate/YOUR-CERT-ID/)
+
+</td>
+<td width="50%">
+
+#### Docker & Kubernetes: The Complete Guide
+**Instructor:** Stephen Grider  
+**Completion Year:** 2023  
+**Certificate:** [View Certificate →](https://udemy.com/certificate/YOUR-CERT-ID/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Complete Python Bootcamp
+**Instructor:** Jose Portilla  
+**Completion Year:** 2023  
+**Certificate:** [View Certificate →](https://udemy.com/certificate/YOUR-CERT-ID/)
+
+</td>
+<td width="50%">
+
+#### [Add Your Course Here]
+**Instructor:** [Instructor Name]  
+**Completion Year:** 2024  
+**Certificate:** [View Certificate →](https://udemy.com/certificate/YOUR-CERT-ID/)
+
+</td>
+</tr>
+</table>
+
+### 📚 LinkedIn Learning Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+#### Spring: Spring Data 2
+**Completion Year:** 2024  
+**Certificate:** [View Certificate →](https://linkedin.com/learning/certificates/YOUR-CERT-ID)
+
+</td>
+<td width="50%">
+
+#### Spring Boot 2.0 Essential Training
+**Completion Year:** 2024  
+**Certificate:** [View Certificate →](https://linkedin.com/learning/certificates/YOUR-CERT-ID)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Advanced Spring: Application Events
+**Completion Year:** 2024  
+**Certificate:** [View Certificate →](https://linkedin.com/learning/certificates/YOUR-CERT-ID)
+
+</td>
+<td width="50%">
+
+#### Microservices Foundations
+**Completion Year:** 2023  
+**Certificate:** [View Certificate →](https://linkedin.com/learning/certificates/YOUR-CERT-ID)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Learning REST APIs
+**Completion Year:** 2023  
+**Certificate:** [View Certificate →](https://linkedin.com/learning/certificates/YOUR-CERT-ID)
+
+</td>
+<td width="50%">
+
+#### Learning Docker
+**Completion Year:** 2023  
+**Certificate:** [View Certificate →](https://linkedin.com/learning/certificates/YOUR-CERT-ID)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📈 GitHub Stats
 
