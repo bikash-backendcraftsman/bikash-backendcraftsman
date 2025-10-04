@@ -196,16 +196,16 @@ I believe in:
 
 <!-- Platform Badges with Live Links -->
 <a href="https://leetcode.com/u/brojecha/">
-  <img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://codeforces.com/profile/YOUR-CODEFORCES-USERNAME">
-  <img src="https://img.shields.io/badge/CodeForces-300+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeForces+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 <a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME">
-  <img src="https://img.shields.io/badge/HackerRank-200+-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank+-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-400+-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks+-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 <br><br>
