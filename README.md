@@ -216,6 +216,15 @@ I believe in:
 
 ---
 
+📊 When I'm Not Coding
+
+📚 Reading tech blogs and documentation
+🎓 Taking online courses to expand my skillset
+✍️ Writing technical articles and tutorials
+🏃 Staying active and maintaining work-life balance
+🎮 Gaming and exploring new technologies
+🤝 Networking with fellow developers
+
 ## 🏆 Certifications
 
 <div align="center">
