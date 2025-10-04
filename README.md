@@ -61,13 +61,16 @@
 - 🎯 2025 Goals: **Contribute more to Open Source**
 
 <br clear="right"/>
----
 
-### 🌱 Continuous Learning
 
+🌱 Continuous Learning
+----------------------
 🎯 ->  Mastering System Design & Architecture
+
 📚 ->  Deep diving into Spring Boot Microservices
+
 ☁️ ->  Expanding knowledge in AWS Cloud Services
+
 🧠 ->  Advancing Data Structures & Algorithms
 
 
