@@ -91,6 +91,11 @@ I believe in:
 
 🌱 Growth mindset - embracing challenges as opportunities
 
+🛠️ My Development Workflow
+==========================
+
+☕ Coffee → 💭 Planning → 💻 Coding → 🧪 Testing → 🚀 Deployment → 📊 Monitoring → 🔁 Iterate
+
 ## 💻 Tech Stack
 
 <div align="center">
