@@ -198,13 +198,13 @@ I believe in:
 <a href="https://leetcode.com/u/brojecha/">
   <img src="https://img.shields.io/badge/LeetCode+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-<a href="https://codeforces.com/profile/YOUR-CODEFORCES-USERNAME">
+<a href="https://codeforces.com/profile/bikash-backendcraftsman">
   <img src="https://img.shields.io/badge/CodeForces+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME">
+<a href="https://www.hackerrank.com/profile/brojecha_5xx">
   <img src="https://img.shields.io/badge/HackerRank+-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME">
+<a href="https://www.geeksforgeeks.org/user/mbikashph/">
   <img src="https://img.shields.io/badge/GeeksforGeeks+-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
