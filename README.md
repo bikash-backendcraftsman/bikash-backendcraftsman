@@ -25,10 +25,10 @@
   <a href="https://your-website.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:bikash.backendcraftsman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-profile">
+  <a href="https://x.com/mbikash_ph">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -559,7 +559,7 @@ I believe in:
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-mohapatra-6398141b8/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-username?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/your-username)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikash.backendcraftsman@gmail.com)
 
 ---
 
