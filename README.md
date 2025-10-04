@@ -39,7 +39,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-> Passionate developer who loves building scalable applications and solving complex problems. Always learning, always coding!
+> Passionate Software Developer specializing in building robust, scalable applications using modern technologies. I thrive on solving complex problems and transforming ideas into elegant code.
+
+💼 Professional Background
+
+🎓 Education: B.Tech in Electronics & Tele-Communication from Trident Academy of Technology.
+💻 Current Role: Lead Engineer at Guardian Life Insurance.
+🏢 Experience: 6 years in software development
+🌍 Location: Based in Bangalore, India.
 
 - 🔭 Currently working on **[Your Current Project]**
 - 🌱 Learning **[Technologies you're learning]**
