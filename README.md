@@ -118,6 +118,11 @@
 
 ---
 
+### 🎓 Udemy Certifications
+
+| Course Name | Instructor | Completion Year | Certificate |
+| Your Course Title | Instructor Name | 2024 | [View Certificate](https://udemy.com/certificate/UC-XXXXXXXXX/) |
+
 ## 📈 GitHub Stats
 
 <p align="center">
