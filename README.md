@@ -142,40 +142,32 @@
 
 <div align="center">
 
-### 🎯 Coding Platforms Statistics
+### 🎯 Competitive Programming Stats
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="48"/>
-<br><strong>LeetCode</strong>
-<br><span style="font-size: 24px; color: #FFA116;">500+</span>
-<br><a href="https://leetcode.com/your-username">Profile</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="48"/>
-<br><strong>CodeForces</strong>
-<br><span style="font-size: 24px; color: #1F8ACB;">300+</span>
-<br><a href="https://codeforces.com/profile/your-username">Profile</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/windows/48/1f8f1b/hackerrank.png" width="48"/>
-<br><strong>HackerRank</strong>
-<br><span style="font-size: 24px; color: #00EA64;">200+</span>
-<br><a href="https://hackerrank.com/your-username">Profile</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="48"/>
-<br><strong>GeeksforGeeks</strong>
-<br><span style="font-size: 24px; color: #298D46;">400+</span>
-<br><a href="https://auth.geeksforgeeks.org/user/your-username">Profile</a>
-</td>
-</tr>
-</table>
+<!-- 🔥 Auto-updating LeetCode Card - Updates in Real-time! -->
+<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME">
+  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats"/>
+</a>
+
+<br><br>
+
+<!-- Platform Badges with Live Links -->
+<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME">
+  <img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/YOUR-CODEFORCES-USERNAME">
+  <img src="https://img.shields.io/badge/CodeForces-300+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME">
+  <img src="https://img.shields.io/badge/HackerRank-200+-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-400+-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<br><br>
 
 ### 📈 Total Problems Solved: **1400+** 🎉
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR-USERNAME?theme=dark&font=source_code_pro&ext=heatmap)
 
 </div>
 
