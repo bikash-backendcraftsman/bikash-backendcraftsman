@@ -42,15 +42,17 @@
 > Passionate Software Developer specializing in building robust, scalable applications using modern technologies. I thrive on solving complex problems and transforming ideas into elegant code.
 
 💼 Professional Background
+==========================
 
-🎓 Education: 
-B.Tech in Electronics & Tele-Communication from Trident Academy of Technology.
+🎓 Education : B.Tech in Electronics & Tele-Communication from Trident Academy of Technology.
 
-💻 Current Role: Lead Engineer at Guardian Life Insurance.
-🏢 Experience: 6 years in software development
-🌍 Location: Based in Bangalore, India.
+💻 Current Role : Lead Engineer at Guardian Life Insurance.
 
-- 🔭 Currently working on **[Your Current Project]**
+🏢 Experience : 6 years in software development
+
+🌍 Location : Based in Bangalore, India.
+
+- 🔭 Currently working on **Insurance Domain**
 - 🌱 Learning **[Technologies you're learning]**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, DSA, System Design**
