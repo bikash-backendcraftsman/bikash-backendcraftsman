@@ -216,7 +216,7 @@ I believe in:
 
 ---
 
-##📊 When I'm Not Coding
+📊 When I'm Not Coding
 ======================
 
 📚 Reading tech blogs and documentation
