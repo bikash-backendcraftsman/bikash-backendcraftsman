@@ -121,7 +121,12 @@
 ### 🎓 Udemy Certifications
 
 | Course Name | Instructor | Completion Year | Certificate |
-| Your Course Title | Instructor Name | 2024 | [View Certificate](https://udemy.com/certificate/UC-XXXXXXXXX/) |
+
+| Spring Boot Microservices and Spring Cloud | In28Minutes Official | 2024 | [View Certificate](https://udemy.com/certificate/UC-12345678/) |
+| Master Hibernate and JPA | Chad Darby | 2024 | [View Certificate](https://udemy.com/certificate/UC-87654321/) |
+| RESTful Web Services with Spring Boot | Sergey Kargopolov | 2024 | [View Certificate](https://udemy.com/certificate/UC-11223344/) |
+| Docker & Kubernetes: The Complete Guide | Stephen Grider | 2023 | [View Certificate](https://udemy.com/certificate/UC-55667788/) |
+
 
 ## 📈 GitHub Stats
 
