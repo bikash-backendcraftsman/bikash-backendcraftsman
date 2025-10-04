@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Bikash Mohapatra.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+💻;Problem+Solver+🚀;Lifelong+Learner+📚;Open+Source+Contributor+🌟)](https://git.io/typing-svg)
 
