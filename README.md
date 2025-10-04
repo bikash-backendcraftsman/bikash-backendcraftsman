@@ -210,7 +210,7 @@ I believe in:
 
 <br><br>
 
-### 📈 Total Problems Solved: **1400+** 🎉
+### 📈 Total Problems Solved: **200+** 🎉
 
 </div>
 
