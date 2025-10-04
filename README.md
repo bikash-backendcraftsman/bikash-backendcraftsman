@@ -188,14 +188,14 @@ I believe in:
 ### 🎯 Competitive Programming Stats
 
 <!-- 🔥 Auto-updating LeetCode Card - Updates in Real-time! -->
-<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats"/>
+<a href="https://leetcode.com/u/brojecha/">
+  <img src="https://leetcard.jacoblin.cool/brojecha?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 
 <br><br>
 
 <!-- Platform Badges with Live Links -->
-<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME">
+<a href="https://leetcode.com/u/brojecha/">
   <img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://codeforces.com/profile/YOUR-CODEFORCES-USERNAME">
