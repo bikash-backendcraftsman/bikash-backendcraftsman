@@ -43,7 +43,9 @@
 
 💼 Professional Background
 
-🎓 Education: B.Tech in Electronics & Tele-Communication from Trident Academy of Technology.
+🎓 Education: 
+B.Tech in Electronics & Tele-Communication from Trident Academy of Technology.
+
 💻 Current Role: Lead Engineer at Guardian Life Insurance.
 🏢 Experience: 6 years in software development
 🌍 Location: Based in Bangalore, India.
