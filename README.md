@@ -65,12 +65,11 @@
 
 ### 🌱 Continuous Learning
 
-🎯 Mastering System Design & Architecture
-📚 Deep diving into Spring Boot Microservices
-☁️ Expanding knowledge in AWS Cloud Services
-🧠 Advancing Data Structures & Algorithms
+🎯 ->  Mastering System Design & Architecture
+📚 ->  Deep diving into Spring Boot Microservices
+☁️ ->  Expanding knowledge in AWS Cloud Services
+🧠 ->  Advancing Data Structures & Algorithms
 
-<br clear="right"/>
 
 ## 💻 Tech Stack
 
