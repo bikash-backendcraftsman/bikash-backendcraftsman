@@ -499,7 +499,7 @@
 
 <p>I'm always open to interesting conversations and collaboration opportunities!</p>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-mohapatra-6398141b8/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-username?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/your-username)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
