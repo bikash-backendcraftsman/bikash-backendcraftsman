@@ -2,7 +2,7 @@
 
 # Bikash Mohapatra
 
-Lead Engineer at Guardian Life · Bangalore, India
+Lead Engineer · Bangalore, India
 
 Backend systems in the insurance domain, built with Java and Spring Boot.  
 B.Tech in Electronics and Telecommunication, Trident Academy of Technology.
