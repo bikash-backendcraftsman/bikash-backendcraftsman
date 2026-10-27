@@ -1,18 +1,44 @@
+<div align="center">
+
 # Bikash Mohapatra
 
-Lead Engineer at Guardian Life. I build backend systems in the insurance domain, mostly with Java and Spring Boot.
+Lead Engineer at Guardian Life · Bangalore, India
 
-Bangalore, India. B.Tech in Electronics and Telecommunication, Trident Academy of Technology.
+Backend systems in the insurance domain, built with Java and Spring Boot.  
+B.Tech in Electronics and Telecommunication, Trident Academy of Technology.
 
-## Contact
+<p>
+  <a href="https://www.linkedin.com/in/bikash-mohapatra-6398141b8/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bikash.backendcraftsman@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/mbikash_ph">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/bikash-mohapatra-6398141b8/)
-- [Email](mailto:bikash.backendcraftsman@gmail.com)
-- [X](https://x.com/mbikash_ph)
+</div>
+
+## Tech
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## Work
-
-Java, Spring Boot, and SQL. Delivery around that is Git, Docker, and Jenkins.
 
 | Repository | What it is |
 | --- | --- |
@@ -23,4 +49,17 @@ Java, Spring Boot, and SQL. Delivery around that is Git, Docker, and Jenkins.
 
 ## Practice
 
-[LeetCode](https://leetcode.com/u/brojecha/) · [Codeforces](https://codeforces.com/profile/bikash-backendcraftsman) · [HackerRank](https://www.hackerrank.com/profile/brojecha_5xx) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/mbikashph/)
+<p align="center">
+  <a href="https://leetcode.com/u/brojecha/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/bikash-backendcraftsman">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/brojecha_5xx">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/mbikashph/">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
