@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1280" viewBox="0 0 1200 1280" role="img" aria-label="brojecha, Full Stack Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1460" viewBox="0 0 1200 1460" role="img" aria-label="brojecha, Full Stack Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#071018"/>
@@ -18,10 +18,10 @@
       <stop offset="100%" stop-color="#7c3aed"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="1280" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="1280" rx="28" fill="url(#cyan)"/>
-  <rect width="1200" height="1280" rx="28" fill="url(#purple)"/>
-  <rect x="0" y="0" width="14" height="1280" fill="url(#bar)"/>
+  <rect width="1200" height="1460" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="1460" rx="28" fill="url(#cyan)"/>
+  <rect width="1200" height="1460" rx="28" fill="url(#purple)"/>
+  <rect x="0" y="0" width="14" height="1460" fill="url(#bar)"/>
   <text x="56" y="108" fill="#f7feff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700">brojecha</text>
   <text x="58" y="156" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700">Full Stack Developer</text>
   <text x="58" y="194" fill="#d7f7fb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Bangalore, India</text>
@@ -82,34 +82,34 @@
   </g>
   <line x1="58" y1="700" x2="1142" y2="700" stroke="#1c4d5e" stroke-width="1"/>
   <text x="58" y="744" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">WORK</text>
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">
-    <circle cx="70" cy="786" r="4" fill="#00e5ff"/>
-    <text x="88" y="792" fill="#f7feff" font-weight="700">riskshield-customer-service</text>
-    <text x="430" y="792" fill="#b7e4ee">Customer service for an insurance platform</text>
-    <circle cx="70" cy="828" r="4" fill="#00e5ff"/>
-    <text x="88" y="834" fill="#f7feff" font-weight="700">construction-company</text>
-    <text x="360" y="834" fill="#b7e4ee">Modular monolith for a construction company</text>
-    <circle cx="70" cy="870" r="4" fill="#00e5ff"/>
-    <text x="88" y="876" fill="#f7feff" font-weight="700">task-crud</text>
-    <text x="210" y="876" fill="#b7e4ee">Spring Boot CRUD used to practice Jenkins</text>
-    <circle cx="70" cy="912" r="4" fill="#00e5ff"/>
-    <text x="88" y="918" fill="#f7feff" font-weight="700">low-level-design-practice</text>
-    <text x="390" y="918" fill="#b7e4ee">Low-level design practice</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <circle cx="70" cy="782" r="4" fill="#00e5ff"/>
+    <text x="88" y="788" fill="#f7feff" font-size="20" font-weight="700">riskshield-customer-service</text>
+    <text x="88" y="814" fill="#b7e4ee" font-size="16">Customer service for an insurance platform</text>
+    <circle cx="70" cy="856" r="4" fill="#00e5ff"/>
+    <text x="88" y="862" fill="#f7feff" font-size="20" font-weight="700">construction-company</text>
+    <text x="88" y="888" fill="#b7e4ee" font-size="16">Modular monolith for a construction company</text>
+    <circle cx="70" cy="930" r="4" fill="#00e5ff"/>
+    <text x="88" y="936" fill="#f7feff" font-size="20" font-weight="700">task-crud</text>
+    <text x="88" y="962" fill="#b7e4ee" font-size="16">Spring Boot CRUD used to practice Jenkins</text>
+    <circle cx="70" cy="1004" r="4" fill="#00e5ff"/>
+    <text x="88" y="1010" fill="#f7feff" font-size="20" font-weight="700">low-level-design-practice</text>
+    <text x="88" y="1036" fill="#b7e4ee" font-size="16">Low-level design practice</text>
   </g>
-  <text x="58" y="980" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">LEARNING</text>
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">
-    <circle cx="70" cy="1022" r="4" fill="#a855f7"/>
-    <text x="88" y="1028" fill="#f7feff" font-weight="700">ReactJS-Development-Workspace</text>
-    <text x="480" y="1028" fill="#b7e4ee">React JS projects</text>
-    <circle cx="70" cy="1064" r="4" fill="#a855f7"/>
-    <text x="88" y="1070" fill="#f7feff" font-weight="700">javascript-development-workspace</text>
-    <text x="500" y="1070" fill="#b7e4ee">JavaScript exercises grouped by topic</text>
-    <circle cx="70" cy="1106" r="4" fill="#a855f7"/>
-    <text x="88" y="1112" fill="#f7feff" font-weight="700">typescript-development-workspace</text>
-    <text x="500" y="1112" fill="#b7e4ee">TypeScript exercises grouped by topic</text>
-    <circle cx="70" cy="1148" r="4" fill="#a855f7"/>
-    <text x="88" y="1154" fill="#f7feff" font-weight="700">SQL-Learning-and-Query-Practice</text>
-    <text x="490" y="1154" fill="#b7e4ee">SQL operators and query practice</text>
+  <text x="58" y="1090" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">LEARNING</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <circle cx="70" cy="1128" r="4" fill="#a855f7"/>
+    <text x="88" y="1134" fill="#f7feff" font-size="20" font-weight="700">ReactJS-Development-Workspace</text>
+    <text x="88" y="1160" fill="#b7e4ee" font-size="16">React JS projects</text>
+    <circle cx="70" cy="1202" r="4" fill="#a855f7"/>
+    <text x="88" y="1208" fill="#f7feff" font-size="20" font-weight="700">javascript-development-workspace</text>
+    <text x="88" y="1234" fill="#b7e4ee" font-size="16">JavaScript exercises grouped by topic</text>
+    <circle cx="70" cy="1276" r="4" fill="#a855f7"/>
+    <text x="88" y="1282" fill="#f7feff" font-size="20" font-weight="700">typescript-development-workspace</text>
+    <text x="88" y="1308" fill="#b7e4ee" font-size="16">TypeScript exercises grouped by topic</text>
+    <circle cx="70" cy="1350" r="4" fill="#a855f7"/>
+    <text x="88" y="1356" fill="#f7feff" font-size="20" font-weight="700">SQL-Learning-and-Query-Practice</text>
+    <text x="88" y="1382" fill="#b7e4ee" font-size="16">SQL operators and query practice</text>
   </g>
-  <text x="58" y="1224" fill="#ffd27a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">LeetCode name · brojecha</text>
+  <text x="58" y="1430" fill="#ffd27a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">LeetCode name · brojecha</text>
 </svg>
