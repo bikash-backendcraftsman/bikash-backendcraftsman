@@ -1,10 +1,11 @@
+<p align="center">
+  <img src="banner.svg" alt="brojecha, Full Stack Developer in Bangalore" width="100%" />
+</p>
+
 <div align="center">
 
-# Bikash Mohapatra
-
-Lead Engineer · Bangalore, India
-
-Backend systems in the insurance domain, built with Java and Spring Boot.  
+Full stack development with Java and Spring Boot on the backend, and React, JavaScript, and TypeScript on the frontend.  
+Backend systems in the insurance domain.  
 B.Tech in Electronics and Telecommunication, Trident Academy of Technology.
 
 <p>
@@ -17,6 +18,9 @@ B.Tech in Electronics and Telecommunication, Trident Academy of Technology.
   <a href="https://x.com/mbikash_ph">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/brojecha/">
+    <img alt="LeetCode brojecha" src="https://img.shields.io/badge/LeetCode-brojecha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 </div>
@@ -27,24 +31,17 @@ B.Tech in Electronics and Telecommunication, Trident Academy of Technology.
 <tr>
 <td width="50%" valign="top">
 
-### Languages
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-<p>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
 ### Frontend
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+<p>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 </td>
@@ -53,26 +50,28 @@ B.Tech in Electronics and Telecommunication, Trident Academy of Technology.
 ### Backend
 
 <p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
+<p>
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-</p>
-
-### Data and tools
-
-<p>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-<p>
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 </td>
 </tr>
 </table>
+
+### Tools
+
+<p>
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## Work
 
@@ -96,7 +95,7 @@ B.Tech in Electronics and Telecommunication, Trident Academy of Technology.
 
 <p align="center">
   <a href="https://leetcode.com/u/brojecha/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img alt="LeetCode brojecha" src="https://img.shields.io/badge/LeetCode-brojecha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://codeforces.com/profile/bikash-backendcraftsman">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
