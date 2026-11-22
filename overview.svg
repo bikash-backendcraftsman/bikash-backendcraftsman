@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1280" viewBox="0 0 1200 1280" role="img" aria-label="brojecha, Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071018"/>
+      <stop offset="42%" stop-color="#0b2433"/>
+      <stop offset="100%" stop-color="#1a1030"/>
+    </linearGradient>
+    <radialGradient id="cyan" cx="8%" cy="0%" r="55%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purple" cx="100%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1280" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="1280" rx="28" fill="url(#cyan)"/>
+  <rect width="1200" height="1280" rx="28" fill="url(#purple)"/>
+  <rect x="0" y="0" width="14" height="1280" fill="url(#bar)"/>
+  <text x="56" y="108" fill="#f7feff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700">brojecha</text>
+  <text x="58" y="156" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700">Full Stack Developer</text>
+  <text x="58" y="194" fill="#d7f7fb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Bangalore, India</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">
+    <rect x="58" y="220" width="86" height="34" rx="17" fill="#00e5ff"/>
+    <text x="101" y="242" fill="#071018" text-anchor="middle">Java</text>
+    <rect x="156" y="220" width="150" height="34" rx="17" fill="#6DB33F"/>
+    <text x="231" y="242" fill="#ffffff" text-anchor="middle">Spring Boot</text>
+    <rect x="318" y="220" width="92" height="34" rx="17" fill="#20232A"/>
+    <text x="364" y="242" fill="#61DAFB" text-anchor="middle">React</text>
+    <rect x="422" y="220" width="132" height="34" rx="17" fill="#F7DF1E"/>
+    <text x="488" y="242" fill="#111111" text-anchor="middle">JavaScript</text>
+    <rect x="566" y="220" width="132" height="34" rx="17" fill="#3178C6"/>
+    <text x="632" y="242" fill="#ffffff" text-anchor="middle">TypeScript</text>
+  </g>
+  <text x="58" y="304" fill="#e7fbff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Full stack development with Java and Spring Boot on the backend, and React,</text>
+  <text x="58" y="334" fill="#e7fbff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">JavaScript, and TypeScript on the frontend. Backend systems in the insurance domain.</text>
+  <text x="58" y="364" fill="#b7e4ee" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">B.Tech in Electronics and Telecommunication, Trident Academy of Technology.</text>
+  <line x1="58" y1="404" x2="1142" y2="404" stroke="#1c4d5e" stroke-width="1"/>
+  <text x="58" y="448" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">FRONTEND</text>
+  <text x="640" y="448" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">BACKEND</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">
+    <rect x="58" y="468" width="100" height="36" rx="18" fill="#20232A"/>
+    <text x="108" y="491" fill="#61DAFB" text-anchor="middle">React</text>
+    <rect x="170" y="468" width="140" height="36" rx="18" fill="#F7DF1E"/>
+    <text x="240" y="491" fill="#111111" text-anchor="middle">JavaScript</text>
+    <rect x="322" y="468" width="140" height="36" rx="18" fill="#3178C6"/>
+    <text x="392" y="491" fill="#ffffff" text-anchor="middle">TypeScript</text>
+    <rect x="58" y="516" width="84" height="36" rx="18" fill="#646CFF"/>
+    <text x="100" y="539" fill="#ffffff" text-anchor="middle">Vite</text>
+    <rect x="154" y="516" width="100" height="36" rx="18" fill="#E34F26"/>
+    <text x="204" y="539" fill="#ffffff" text-anchor="middle">HTML5</text>
+    <rect x="266" y="516" width="88" height="36" rx="18" fill="#1572B6"/>
+    <text x="310" y="539" fill="#ffffff" text-anchor="middle">CSS3</text>
+    <rect x="640" y="468" width="86" height="36" rx="18" fill="#ED8B00"/>
+    <text x="683" y="491" fill="#ffffff" text-anchor="middle">Java</text>
+    <rect x="738" y="468" width="150" height="36" rx="18" fill="#6DB33F"/>
+    <text x="813" y="491" fill="#ffffff" text-anchor="middle">Spring Boot</text>
+    <rect x="900" y="468" width="100" height="36" rx="18" fill="#6DB33F"/>
+    <text x="950" y="491" fill="#ffffff" text-anchor="middle">Spring</text>
+    <rect x="640" y="516" width="130" height="36" rx="18" fill="#59666C"/>
+    <text x="705" y="539" fill="#ffffff" text-anchor="middle">Hibernate</text>
+    <rect x="782" y="516" width="72" height="36" rx="18" fill="#025E8C"/>
+    <text x="818" y="539" fill="#ffffff" text-anchor="middle">SQL</text>
+    <rect x="866" y="516" width="100" height="36" rx="18" fill="#4479A1"/>
+    <text x="916" y="539" fill="#ffffff" text-anchor="middle">MySQL</text>
+  </g>
+  <text x="58" y="604" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">TOOLS</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">
+    <rect x="58" y="624" width="110" height="36" rx="18" fill="#C71A36"/>
+    <text x="113" y="647" fill="#ffffff" text-anchor="middle">Maven</text>
+    <rect x="180" y="624" width="110" height="36" rx="18" fill="#2496ED"/>
+    <text x="235" y="647" fill="#ffffff" text-anchor="middle">Docker</text>
+    <rect x="302" y="624" width="118" height="36" rx="18" fill="#D24939"/>
+    <text x="361" y="647" fill="#ffffff" text-anchor="middle">Jenkins</text>
+    <rect x="432" y="624" width="78" height="36" rx="18" fill="#F05032"/>
+    <text x="471" y="647" fill="#ffffff" text-anchor="middle">Git</text>
+  </g>
+  <line x1="58" y1="700" x2="1142" y2="700" stroke="#1c4d5e" stroke-width="1"/>
+  <text x="58" y="744" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">WORK</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">
+    <circle cx="70" cy="786" r="4" fill="#00e5ff"/>
+    <text x="88" y="792" fill="#f7feff" font-weight="700">riskshield-customer-service</text>
+    <text x="430" y="792" fill="#b7e4ee">Customer service for an insurance platform</text>
+    <circle cx="70" cy="828" r="4" fill="#00e5ff"/>
+    <text x="88" y="834" fill="#f7feff" font-weight="700">construction-company</text>
+    <text x="360" y="834" fill="#b7e4ee">Modular monolith for a construction company</text>
+    <circle cx="70" cy="870" r="4" fill="#00e5ff"/>
+    <text x="88" y="876" fill="#f7feff" font-weight="700">task-crud</text>
+    <text x="210" y="876" fill="#b7e4ee">Spring Boot CRUD used to practice Jenkins</text>
+    <circle cx="70" cy="912" r="4" fill="#00e5ff"/>
+    <text x="88" y="918" fill="#f7feff" font-weight="700">low-level-design-practice</text>
+    <text x="390" y="918" fill="#b7e4ee">Low-level design practice</text>
+  </g>
+  <text x="58" y="980" fill="#67e8f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">LEARNING</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">
+    <circle cx="70" cy="1022" r="4" fill="#a855f7"/>
+    <text x="88" y="1028" fill="#f7feff" font-weight="700">ReactJS-Development-Workspace</text>
+    <text x="480" y="1028" fill="#b7e4ee">React JS projects</text>
+    <circle cx="70" cy="1064" r="4" fill="#a855f7"/>
+    <text x="88" y="1070" fill="#f7feff" font-weight="700">javascript-development-workspace</text>
+    <text x="500" y="1070" fill="#b7e4ee">JavaScript exercises grouped by topic</text>
+    <circle cx="70" cy="1106" r="4" fill="#a855f7"/>
+    <text x="88" y="1112" fill="#f7feff" font-weight="700">typescript-development-workspace</text>
+    <text x="500" y="1112" fill="#b7e4ee">TypeScript exercises grouped by topic</text>
+    <circle cx="70" cy="1148" r="4" fill="#a855f7"/>
+    <text x="88" y="1154" fill="#f7feff" font-weight="700">SQL-Learning-and-Query-Practice</text>
+    <text x="490" y="1154" fill="#b7e4ee">SQL operators and query practice</text>
+  </g>
+  <text x="58" y="1224" fill="#ffd27a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">LeetCode name · brojecha</text>
+</svg>
